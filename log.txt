@@ -1,0 +1,17 @@
+[shift]
+H
+e
+l
+l
+o
+ 
+[shift]
+W
+o
+r
+l
+d
+[shift]
+!
+[control]
+c
